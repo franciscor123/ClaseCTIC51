@@ -1,0 +1,1 @@
+alert("SU BOLETA HA SIDO PAGADA")
